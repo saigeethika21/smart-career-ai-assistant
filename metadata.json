@@ -1,0 +1,5 @@
+{
+  "name": "Smart Career AI Assistant",
+  "description": "An AI-powered career assistant that analyzes your profile or preferences to suggest a suitable job role and a personalized skill development roadmap. Track your progress on an interactive dashboard.",
+  "requestFramePermissions": []
+}
